@@ -1,0 +1,7 @@
+DOC-10;Dr. Abhishek Sharma;10-07-1978;Male;+91 987 654 3210;Delhi;Cardiologist
+DOC-12;Dr. Priya Patel;25-04-1985;Female;+91 876 543 2109;Mumbai;Pediatrician
+DOC-14;Dr. Rajesh Singh;03-12-1972;Male;+91 765 432 1098;Bangalore;Gastroenterologist
+DOC-17;Dr. Neha Gupta;18-09-1980;Female;+91 654 321 0987;Chennai;Endocrinologist
+DOC-21;Dr. Sanjay Kumar;12-06-1975;Male;+91 543 210 9876;Hyderabad;Urologist
+DOC-23;Dr. Anjali Mishra;28-03-1988;Female;+91 432 109 8765;Kolkata;Pulmonologist
+DOC-28;Dr. Rohan Joshi;05-11-1979;Male;+91 321 098 7654;Pune;Psychiatrist

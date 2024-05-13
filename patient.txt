@@ -1,0 +1,10 @@
+PT-100;John Smith;20-05-1985;Male;+91 984 530 7285;New York 
+PT-101;Emma Johnson;15-08-1990;Female;+91 987 654 3210;Los Angeles 
+PT-102;Michael Williams;03-12-1978;Male;+91 876 543 2109;Chicago 
+PT-103;Sophia Brown;28-04-1983;Female;+91 765 432 1098;Houston 
+PT-104;William Davis;11-09-1970;Male;+91 654 321 0987;Miami 
+PT-105;Olivia Wilson;19-11-1989;Female;+91 543 210 9876;San Francisco 
+PT-106;James Martinez;07-06-1982;Male;+91 432 109 8765;Seattle 
+PT-107;Charlotte Anderson;25-03-1975;Female;+91 321 098 7654;Dallas 
+PT-108;Daniel Taylor;09-01-1995;Male;+91 210 987 6543;Atlanta 
+PT-109;Ava Thomas;02-10-1987;Female;+91 109 876 5432;Boston

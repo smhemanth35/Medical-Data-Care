@@ -1,0 +1,24 @@
+Doctor's Data:
+Name: DOC-10
+Date of Birth: Dr. Abhishek Sharma
+Gender: 10-07-1978
+Mobile: Male
+City: +91 987 654 3210
+ID: Delhi
+Specialization: Common Cold and Sinusitis Specialist
+ 
+Name: DOC-12
+Date of Birth: Dr. Priya Patel
+Gender: 25-04-1985
+Mobile: Female
+City: +91 876 543 2109
+ID: Mumbai
+Specialization: Respiratory Specialist
+ 
+Name: DOC-14
+Date of Birth: Dr. Rajesh Singh
+Gender: 03-12-1972
+Mobile: Male
+City: +91 765 432 1098
+ID: Bangalore
+Specialization: Gastrointestinal Specialist

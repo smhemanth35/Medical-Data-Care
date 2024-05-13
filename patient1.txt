@@ -1,0 +1,20 @@
+MED-110;PT-100;DOC-10;Common cold;Rest, plenty of fluids, over-the-counter cold medicine;Acetaminophen, Cough syrup;N/A
+MED-111;PT-100;DOC-10;Sinusitis;Antibiotics, nasal decongestants, saline nasal irrigation;Amoxicillin, Oxymetazoline, Saline solution;N/A
+MED-112;PT-105;DOC-12;Bronchitis;Rest, hydration, cough suppressants;Dextromethorphan;Chest X-ray showing inflammation
+MED-113;PT-105;DOC-12;Pneumonia;Antibiotics, antipyretics, oxygen therapy;Azithromycin, Paracetamol, Oxygen;Chest X-ray showing infiltrates
+MED-114;PT-110;DOC-14;Acute gastritis;Dietary modifications, antacids, proton pump inhibitors;Omeprazole, Sucralfate;N/A
+MED-115;PT-110;DOC-14;Gastroesophageal reflux disease (GERD);Lifestyle changes, proton pump inhibitors, antacids;Esomeprazole, Aluminum hydroxide;N/A
+MED-116;PT-110;DOC-14;Peptic ulcer disease;Antibiotics, proton pump inhibitors, antacids;Amoxicillin, Lansoprazole, Calcium carbonate;N/A
+MED-117;PT-111;DOC-17;Hypertension;Lifestyle changes, antihypertensive medication;Exercise, Amlodipine;Blood pressure readings within normal range
+MED-118;PT-111;DOC-17;Type 2 diabetes mellitus;Blood sugar monitoring, dietary changes, oral antidiabetic drugs;Metformin, Sitagliptin;Blood glucose levels within target range
+MED-119;PT-111;DOC-17;Hyperlipidemia;Lifestyle modifications, statins;Atorvastatin;Cholesterol levels within normal range
+MED-120;PT-111;DOC-17;Obesity;Dietary changes, exercise regimen, weight-loss medications;Orlistat;BMI reduction, improved lipid profile
+MED-121;PT-115;DOC-21;Urinary tract infection;Antibiotics, increased fluid intake;Ciprofloxacin;Urinalysis showing leukocytes, nitrites
+MED-122;PT-115;DOC-21;Kidney stones;Pain management, increased fluid intake;Ibuprofen;Ultrasound showing renal calculi
+MED-123;PT-118;DOC-23;Asthma;Bronchodilators, corticosteroids, allergy management;Albuterol, Fluticasone, Montelukast;Spirometry showing reversible airflow obstruction
+MED-124;PT-118;DOC-23;Chronic obstructive pulmonary disease (COPD);Bronchodilators, corticosteroids, oxygen therapy;Tiotropium, Budesonide, Oxygen;Pulmonary function test showing reduced FEV1
+MED-125;PT-118;DOC-23;Chronic bronchitis;Bronchodilators, corticosteroids, pulmonary rehabilitation;Salbutamol, Prednisone, Pulmonary rehab;Sputum culture showing bacterial infection
+MED-126;PT-118;DOC-23;Interstitial lung disease;Corticosteroids, immunosuppressants, oxygen therapy;Prednisone, Azathioprine, Oxygen;High-resolution CT scan showing fibrotic changes
+MED-127;PT-118;DOC-23;Pulmonary embolism;Anticoagulation therapy, oxygen therapy;Heparin, Warfarin, Oxygen;CT pulmonary angiography showing emboli
+MED-128;PT-119;DOC-28;Depression;Psychotherapy, antidepressants;Cognitive-behavioral therapy, Sertraline;Improved mood, reduced depressive symptoms
+MED-129;PT-119;DOC-28;Anxiety disorder;Counseling, anxiolytics;Therapy sessions, Lorazepam;Reduced anxiety levels, improved coping mechanisms

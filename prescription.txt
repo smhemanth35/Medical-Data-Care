@@ -1,0 +1,10 @@
+RX001; John Doe; Dr. Smith; Ibuprofen 200mg; 2024-04-10
+RX002; Jane Smith; Dr. Johnson; Paracetamol 500mg; 2024-04-12
+RX003; Michael Brown; Dr. White; Amoxicillin 500mg; 2024-04-15
+RX004; Sarah Wilson; Dr. Lee; Omeprazole 20mg; 2024-04-18
+RX005; David Clark; Dr. Patel; Loratadine 10mg; 2024-04-20
+RX006; Emily Taylor; Dr. Anderson; Naproxen 250mg; 2024-04-22
+RX007; James Miller; Dr. Martinez; Ciprofloxacin 500mg; 2024-04-25
+RX008; Olivia Garcia; Dr. Robinson; Diphenhydramine 25mg; 2024-04-28
+RX009; Daniel Hernandez; Dr. Adams; Metformin 1000mg; 2024-05-01
+RX010; Sophia Perez; Dr. Thomas; Atorvastatin 40mg; 2024-05-03
